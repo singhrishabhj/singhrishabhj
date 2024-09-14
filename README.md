@@ -36,7 +36,7 @@ I'm a passionate developer and former Project Manager with a knack for creating 
 
 ## 📫 Get in Touch
 - LinkedIn: [![Rishabh_Singh](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-singh-2715bb268/)
-- Email: [RishabhSingh](singhrishabhj19@gmail.com)
+- Email: [![Singhrishabhj](https://img.shields.io/badge/Gmail-Email%20Me-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:singhrishabhj19@gmail.com)
 
 ## 📊 GitHub Language Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhrishabhj&layout=compact&langs_count=6&theme=radical)
