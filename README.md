@@ -3,11 +3,7 @@
 I'm a passionate developer and former Project Manager with a knack for creating innovative tools and solutions. Here's a little about me and what I love working on:
 
 ## 🚀 About Me
-- 💻 I enjoy building software and web applications.
-- 👨‍💼 Former **Project Manager** with experience in leading teams and overseeing development projects.
-- 🔧 Currently working on **Swiftmarkify** - an online file-to-Markdown conversion tool.
-- 📚 Learning Java for backend development and improving my **JavaScript** skills.
-- 🌟 I love solving real-world problems through **programming** and making life easier for users.
+💻 I enjoy building software and web applications. As a former Project Manager, I have extensive experience in leading teams and overseeing development projects. Currently, I’m working on Swiftmarkify, an innovative online tool for converting files to Markdown format. I’m also expanding my skills by learning Java for backend development and enhancing my JavaScript expertise. My passion lies in solving real-world problems through programming and striving to make life easier for users.
 
 ## 🛠️ Skills & Tools
 - **Languages**: Java, JavaScript, PHP, MySQL, Markdown
