@@ -32,6 +32,19 @@ I'm a passionate developer and former Project Manager with a knack for creating 
   </a>
 </div>
 
+<div style="display: flex; gap: 10px;">
+  <a href="https://github.com/singhrishabhj">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhrishabhj&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/singhrishabhj">
+    <img src="https://github-readme-stats.vercel.app/api?username=singhrishabhj&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
+  <a href="https://roadmap.sh">
+    <img src="https://roadmap.sh/card/tall/66e53a66f34c8868ec26a7be?variant=dark" alt="Developer Roadmap" />
+  </a>
+</div>
+
+
 ## 📊 GitHub Language Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhrishabhj&layout=compact&langs_count=6&theme=radical)
 
