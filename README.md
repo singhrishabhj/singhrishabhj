@@ -22,6 +22,18 @@ I'm a passionate developer and former Project Manager with a knack for creating 
 ## 🌐 My Developer Roadmap
 [![My Roadmap](https://roadmap.sh/card/tall/66e53a66f34c8868ec26a7be?variant=dark)](https://roadmap.sh)
 
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://github.com/singhrishabhj">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhrishabhj&layout=compact&langs_count=6&theme=radical" alt="Top Languages" style="width: 200px; height: 100px; object-fit: cover;" />
+  </a>
+  <a href="https://github.com/singhrishabhj">
+    <img src="https://github-readme-stats.vercel.app/api?username=singhrishabhj&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 200px; height: 100px; object-fit: cover;" />
+  </a>
+  <a href="https://roadmap.sh">
+    <img src="https://roadmap.sh/card/tall/66e53a66f34c8868ec26a7be?variant=dark" alt="Developer Roadmap" style="width: 200px; height: 100px; object-fit: cover;" />
+  </a>
+</div>
+
 ## 📫 Get in Touch
 <div style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/rishabh-singh-2715bb268/">
@@ -32,21 +44,3 @@ I'm a passionate developer and former Project Manager with a knack for creating 
   </a>
 </div>
 
-<div style="display: flex; gap: 10px;">
-  <a href="https://github.com/singhrishabhj">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhrishabhj&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/singhrishabhj">
-    <img src="https://github-readme-stats.vercel.app/api?username=singhrishabhj&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </a>
-  <a href="https://roadmap.sh">
-    <img src="https://roadmap.sh/card/tall/66e53a66f34c8868ec26a7be?variant=dark" alt="Developer Roadmap" />
-  </a>
-</div>
-
-
-## 📊 GitHub Language Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhrishabhj&layout=compact&langs_count=6&theme=radical)
-
-## 🔗 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhrishabhj&show_icons=true&theme=radical)
