@@ -10,22 +10,10 @@ I'm a passionate developer and former Project Manager with a knack for creating 
 - 🌟 I love solving real-world problems through **programming** and making life easier for users.
 
 ## 🛠️ Skills & Tools
-### Languages
-- **Java**
-- **JavaScript**
-- **PHP**
-- **MySQL**
-- **Markdown**
-
-### Frontend
-- **HTML, CSS, JavaScript**
-
-### Backend
-- **Java, PHP, Node.js (learning)**
-
-### Tools & Technologies
-- **Git, GitHub, Visual Studio Code**
-- **Agile methodologies, Team leadership, Workflow optimization**
+- **Languages**: Java, JavaScript, PHP, MySQL, Markdown
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Java, PHP, Node.js (learning)
+- **Tools**: Git, GitHub, VS Code, Agile methodologies
 
 ## 🌱 Ongoing Projects
 - **Swiftmarkify**: A tool that converts files into Markdown format.
