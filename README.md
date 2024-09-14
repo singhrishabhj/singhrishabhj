@@ -31,10 +31,10 @@ I'm a passionate developer and former Project Manager with a knack for creating 
 ## Git 
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://github.com/singhrishabhj">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhrishabhj&layout=compact&langs_count=6&theme=radical" alt="Top Languages" style="width: 500px; height: 200px; object-fit: cover;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhrishabhj&layout=compact&langs_count=6&theme=radical" alt="Top Languages" style="width: 300px; height: 200px; object-fit: cover;" />
   </a>
   <a href="https://github.com/singhrishabhj">
-    <img src="https://github-readme-stats.vercel.app/api?username=singhrishabhj&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 500px; height: 200px; object-fit: cover;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=singhrishabhj&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 300px; height: 200px; object-fit: cover;" />
   </a>
 </div>
 
