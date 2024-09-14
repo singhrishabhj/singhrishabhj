@@ -35,7 +35,7 @@ I'm a passionate developer and former Project Manager with a knack for creating 
 [![My Roadmap](https://roadmap.sh/card/tall/66e53a66f34c8868ec26a7be?variant=dark)](https://roadmap.sh)
 
 ## 📫 Get in Touch
-- LinkedIn: [![Rishabh_Singh](https://example.com/linkedin-card.png)](https://www.linkedin.com/in/rishabh-singh-2715bb268/)
+- LinkedIn: [![Rishabh_Singh(https://example.com/linkedin-card.png)](https://www.linkedin.com/in/rishabh-singh-2715bb268/)
 - Email: [RishabhSingh](singhrishabhj19@gmail.com)
 
 ## 📊 GitHub Language Stats
