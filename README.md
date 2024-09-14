@@ -32,6 +32,7 @@ I'm a passionate developer and former Project Manager with a knack for creating 
 ## 🌐 My Developer Roadmap
 [![My Roadmap](https://roadmap.sh/card/tall/66e53a66f34c8868ec26a7be?variant=dark)](https://roadmap.sh)
 
+## Git 
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://github.com/singhrishabhj">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhrishabhj&layout=compact&langs_count=6&theme=radical" alt="Top Languages" style="width: 500px; height: 200px; object-fit: cover;" />
