@@ -13,6 +13,7 @@ I'm a passionate developer and former Project Manager with a knack for creating 
 
 ## 🌱 Ongoing Projects
 - **Swiftmarkify**: A tool that converts files into Markdown format.
+- **DSA Prep**: Preparing and learing Data Structure and Algorithms.
 - **JS 30 Days Challenge**: Improving JavaScript skills with daily coding challenges.
 
 ## 📫 Get in Touch
