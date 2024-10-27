@@ -18,10 +18,10 @@ I'm a passionate developer and former Project Manager with a knack for creating 
 
 ## 📫 Get in Touch
 <div style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/rishabh-singh-2715bb268/">
+  <a href="https://www.linkedin.com/in/rishabh-singh-2715bb268/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:singhrishabhj19@gmail.com">
+  <a href="mailto:singhrishabhj19@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Email%20Me-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
