@@ -12,7 +12,7 @@ I'm a passionate developer and former Project Manager with a knack for creating 
 - **Tools**: Git, GitHub, VS Code, Agile methodologies
 
 ## 🌱 Ongoing Projects
-- **Swiftmarkify**: A tool that converts files into Markdown format.
+- **Shell**: Building a custom shell in Java.
 - **DSA Prep**: Preparing and learing Data Structure and Algorithms.
 - **JS 30 Days Challenge**: Improving JavaScript skills with daily coding challenges.
 
